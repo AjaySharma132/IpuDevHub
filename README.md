@@ -1,7 +1,6 @@
 # IpuDevHub
 
-**Problem Statement:** Being a student developer, we want to explore as much as possible about different tech stacks, different domains, subjects etc. For that, we associate ourselves with some community of similar interests which either be a
-whatsapp group, discord channel, telegram, reddit and a lot more.. And managing all these becomes a little cumbersome. **So, is there any solution to it?**
+**Problem Statement:** Being a student developer, we want to explore as much as possible about different tech stacks, different domains, subjects etc. For that, we associate ourselves with some community of similar interests which can either be a whatsapp group, discord channel, telegram, reddit and a lot more.. And managing all these becomes a little cumbersome. **So, is there any solution to it?**
 
 **My Approach:** I have experienced it myself during the college life, handling all those different groups and being updated with all of them across different platforms had become very difficult for me. So, while learning web development, I thought of developing something which could solve this problem and I could also learn something out of it. So, I developed  **IpuDevHub** where all Ipu University (my undergrad university) students could interact and learn from each other on one platform avoiding distractions, other channels, groups and platforms while learning. **Live at - [Heroku](https://ipudevhub.herokuapp.com/)**.
 
